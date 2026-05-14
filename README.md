@@ -14,7 +14,7 @@ The values update live as you type.
 
 ## Screenshots
 
-![Alt Text](`docs/screenshot-main.png`)
+![Alt Text](docs/screenshot-main.png)
 
 ## Usage
 
